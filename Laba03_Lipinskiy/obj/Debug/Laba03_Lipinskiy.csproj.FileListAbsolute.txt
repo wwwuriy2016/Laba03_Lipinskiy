@@ -1,0 +1,20 @@
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.exe.config
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.exe
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.pdb
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.Form1.resources
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.exe
+C:\Users\Юрий\source\repos\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.pdb
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.exe.config
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.exe
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\bin\Debug\Laba03_Lipinskiy.pdb
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.AssemblyReference.cache
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.Form1.resources
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.Properties.Resources.resources
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.exe
+C:\Users\Юрий\Desktop\учеба НАУ\прог\Laba03_Lipinskiy\Laba03_Lipinskiy\obj\Debug\Laba03_Lipinskiy.pdb
